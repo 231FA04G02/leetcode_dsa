@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/231FA04G02/leetcode_dsa/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/231FA04G02/leetcode_dsa/tree/master/2288-count-operations-to-obtain-zero) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/231FA04G02/leetcode_dsa/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
