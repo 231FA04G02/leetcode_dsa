@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/231FA04G02/leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/231FA04G02/leetcode_dsa/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/231FA04G02/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/231FA04G02/leetcode_dsa/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/231FA04G02/leetcode_dsa/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/231FA04G02/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/231FA04G02/leetcode_dsa/tree/master/0152-maximum-product-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/231FA04G02/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
