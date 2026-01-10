@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/231FA04G02/leetcode_dsa/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/231FA04G02/leetcode_dsa/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/231FA04G02/leetcode_dsa/tree/master/0326-power-of-three) |
 | [2288-count-operations-to-obtain-zero](https://github.com/231FA04G02/leetcode_dsa/tree/master/2288-count-operations-to-obtain-zero) |
 ## Simulation
 |  |
@@ -56,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/231FA04G02/leetcode_dsa/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/231FA04G02/leetcode_dsa/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
