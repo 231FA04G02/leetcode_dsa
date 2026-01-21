@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/231FA04G02/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/231FA04G02/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/231FA04G02/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/231FA04G02/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/231FA04G02/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/231FA04G02/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/231FA04G02/leetcode_dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/231FA04G02/leetcode_dsa/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
