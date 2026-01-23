@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/231FA04G02/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/231FA04G02/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/231FA04G02/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/231FA04G02/leetcode_dsa/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/231FA04G02/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/231FA04G02/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/231FA04G02/leetcode_dsa/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/231FA04G02/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
 ## Math
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/231FA04G02/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/231FA04G02/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/231FA04G02/leetcode_dsa/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/231FA04G02/leetcode_dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/231FA04G02/leetcode_dsa/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/231FA04G02/leetcode_dsa/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
