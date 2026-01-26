@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/231FA04G02/leetcode_dsa/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/231FA04G02/leetcode_dsa/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/231FA04G02/leetcode_dsa/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/231FA04G02/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/231FA04G02/leetcode_dsa/tree/master/0242-valid-anagram) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/231FA04G02/leetcode_dsa/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/231FA04G02/leetcode_dsa/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/231FA04G02/leetcode_dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/231FA04G02/leetcode_dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/231FA04G02/leetcode_dsa/tree/master/0342-power-of-four) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
