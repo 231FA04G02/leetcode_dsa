@@ -1,6 +1,7 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
         dict={}
+        
         while n!=1:
             if n in dict:
                 return False
