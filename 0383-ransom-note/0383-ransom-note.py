@@ -1,13 +1,15 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         count = {}
-
-        for ch in magazine:
+        for ch in ransomNote:
             count[ch] = count.get(ch, 0) + 1
 
-        for ch in ransomNote:
-            if ch not in count or count[ch] == 0:
+        freq = {}
+        for ch in magazine:
+            freq[ch] = freq.get(ch, 0) + 1
+
+        for ch in count:
+            if freq.get(ch, 0) < count[ch]:
                 return False
-            count[ch] -= 1
 
         return True
