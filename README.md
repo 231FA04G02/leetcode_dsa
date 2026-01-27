@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/231FA04G02/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
+| [0845-longest-mountain-in-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0845-longest-mountain-in-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/231FA04G02/leetcode_dsa/tree/master/0152-maximum-product-subarray) |
+| [0845-longest-mountain-in-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/231FA04G02/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
