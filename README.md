@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/231FA04G02/leetcode_dsa/tree/master/0342-power-of-four) |
 | [2288-count-operations-to-obtain-zero](https://github.com/231FA04G02/leetcode_dsa/tree/master/2288-count-operations-to-obtain-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3270-find-the-key-of-the-numbers](https://github.com/231FA04G02/leetcode_dsa/tree/master/3270-find-the-key-of-the-numbers) |
 ## Simulation
 |  |
 | ------- |
