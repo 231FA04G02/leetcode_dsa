@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/231FA04G02/leetcode_dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/231FA04G02/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/231FA04G02/leetcode_dsa/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/231FA04G02/leetcode_dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Trie
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/231FA04G02/leetcode_dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/231FA04G02/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/231FA04G02/leetcode_dsa/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/231FA04G02/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/231FA04G02/leetcode_dsa/tree/master/1189-maximum-number-of-balloons) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/231FA04G02/leetcode_dsa/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/231FA04G02/leetcode_dsa/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/231FA04G02/leetcode_dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/231FA04G02/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/231FA04G02/leetcode_dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Bit Manipulation
 |  |
@@ -139,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
