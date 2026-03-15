@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/231FA04G02/leetcode_dsa/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/231FA04G02/leetcode_dsa/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/231FA04G02/leetcode_dsa/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/231FA04G02/leetcode_dsa/tree/master/0231-power-of-two) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/231FA04G02/leetcode_dsa/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/231FA04G02/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
