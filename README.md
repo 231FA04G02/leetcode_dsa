@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/231FA04G02/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/231FA04G02/leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/231FA04G02/leetcode_dsa/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/231FA04G02/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/231FA04G02/leetcode_dsa/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
