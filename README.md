@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/231FA04G02/leetcode_dsa/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
+| [0905-sort-array-by-parity](https://github.com/231FA04G02/leetcode_dsa/tree/master/0905-sort-array-by-parity) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/1480-running-sum-of-1d-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/231FA04G02/leetcode_dsa/tree/master/0392-is-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
+| [0905-sort-array-by-parity](https://github.com/231FA04G02/leetcode_dsa/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/231FA04G02/leetcode_dsa/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/231FA04G02/leetcode_dsa/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
