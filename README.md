@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/231FA04G02/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/231FA04G02/leetcode_dsa/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/231FA04G02/leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/231FA04G02/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/231FA04G02/leetcode_dsa/tree/master/0152-maximum-product-subarray) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/231FA04G02/leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/231FA04G02/leetcode_dsa/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/231FA04G02/leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0113-path-sum-ii) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/231FA04G02/leetcode_dsa/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -254,10 +257,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/231FA04G02/leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0113-path-sum-ii) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/231FA04G02/leetcode_dsa/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/231FA04G02/leetcode_dsa/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/231FA04G02/leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
