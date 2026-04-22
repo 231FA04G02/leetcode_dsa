@@ -3,14 +3,14 @@ class Solution:
         if root is None:
             return None
         curr=root
-        while curr !=None:
+        while curr!=None:
             if curr.val==target:
                 return curr
-            elif target<curr.val:
+            elif curr.val >target:
                 curr=curr.left
             else:
                 curr=curr.right
-
+            
         return None
 
         
