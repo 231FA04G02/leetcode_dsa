@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/231FA04G02/leetcode_dsa/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/231FA04G02/leetcode_dsa/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/231FA04G02/leetcode_dsa/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/231FA04G02/leetcode_dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/231FA04G02/leetcode_dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Trie
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/231FA04G02/leetcode_dsa/tree/master/0844-backspace-string-compare) |
 | [2288-count-operations-to-obtain-zero](https://github.com/231FA04G02/leetcode_dsa/tree/master/2288-count-operations-to-obtain-zero) |
 ## Two Pointers
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/231FA04G02/leetcode_dsa/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/231FA04G02/leetcode_dsa/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/231FA04G02/leetcode_dsa/tree/master/0905-sort-array-by-parity) |
 ## Sorting
@@ -302,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/231FA04G02/leetcode_dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/231FA04G02/leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/231FA04G02/leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/231FA04G02/leetcode_dsa/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
