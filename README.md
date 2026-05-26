@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/231FA04G02/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/231FA04G02/leetcode_dsa/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/231FA04G02/leetcode_dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/231FA04G02/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/231FA04G02/leetcode_dsa/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/231FA04G02/leetcode_dsa/tree/master/0383-ransom-note) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/231FA04G02/leetcode_dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/231FA04G02/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/231FA04G02/leetcode_dsa/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/231FA04G02/leetcode_dsa/tree/master/0389-find-the-difference) |
@@ -149,10 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/231FA04G02/leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/231FA04G02/leetcode_dsa/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/231FA04G02/leetcode_dsa/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/231FA04G02/leetcode_dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/231FA04G02/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -225,12 +230,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/231FA04G02/leetcode_dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
@@ -314,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/231FA04G02/leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/231FA04G02/leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/231FA04G02/leetcode_dsa/tree/master/0844-backspace-string-compare) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
