@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/231FA04G02/leetcode_dsa/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/231FA04G02/leetcode_dsa/tree/master/0905-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/231FA04G02/leetcode_dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/1480-running-sum-of-1d-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/231FA04G02/leetcode_dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/231FA04G02/leetcode_dsa/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/231FA04G02/leetcode_dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/1137-n-th-tribonacci-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/231FA04G02/leetcode_dsa/tree/master/2288-count-operations-to-obtain-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/231FA04G02/leetcode_dsa/tree/master/0905-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/231FA04G02/leetcode_dsa/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/231FA04G02/leetcode_dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/231FA04G02/leetcode_dsa/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/231FA04G02/leetcode_dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/231FA04G02/leetcode_dsa/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -330,4 +335,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/231FA04G02/leetcode_dsa/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/231FA04G02/leetcode_dsa/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
