@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/231FA04G02/leetcode_dsa/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/231FA04G02/leetcode_dsa/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/231FA04G02/leetcode_dsa/tree/master/1189-maximum-number-of-balloons) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/231FA04G02/leetcode_dsa/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/231FA04G02/leetcode_dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Trie
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/231FA04G02/leetcode_dsa/tree/master/0705-design-hashset) |
 | [1189-maximum-number-of-balloons](https://github.com/231FA04G02/leetcode_dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/231FA04G02/leetcode_dsa/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/231FA04G02/leetcode_dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/231FA04G02/leetcode_dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/231FA04G02/leetcode_dsa/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/231FA04G02/leetcode_dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
