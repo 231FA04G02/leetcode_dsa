@@ -1,6 +1,6 @@
 class Solution:
     def longestConsecutive(self, nums):
-        if not nums:
+        if  not nums:
             return 0
         arr = sorted(set(nums))
         print(*arr)
