@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/231FA04G02/leetcode_dsa/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/231FA04G02/leetcode_dsa/tree/master/0705-design-hashset) |
 | [0845-longest-mountain-in-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/231FA04G02/leetcode_dsa/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/231FA04G02/leetcode_dsa/tree/master/0973-k-closest-points-to-origin) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/231FA04G02/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/231FA04G02/leetcode_dsa/tree/master/0705-design-hashset) |
 | [1189-maximum-number-of-balloons](https://github.com/231FA04G02/leetcode_dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/231FA04G02/leetcode_dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/231FA04G02/leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
+| [0705-design-hashset](https://github.com/231FA04G02/leetcode_dsa/tree/master/0705-design-hashset) |
 ## Memoization
 |  |
 | ------- |
@@ -342,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/231FA04G02/leetcode_dsa/tree/master/0973-k-closest-points-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/231FA04G02/leetcode_dsa/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/231FA04G02/leetcode_dsa/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
