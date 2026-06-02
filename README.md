@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/231FA04G02/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/231FA04G02/leetcode_dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/231FA04G02/leetcode_dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/231FA04G02/leetcode_dsa/tree/master/0392-is-subsequence) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/231FA04G02/leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/231FA04G02/leetcode_dsa/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/231FA04G02/leetcode_dsa/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/231FA04G02/leetcode_dsa/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/231FA04G02/leetcode_dsa/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/231FA04G02/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/231FA04G02/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/231FA04G02/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
