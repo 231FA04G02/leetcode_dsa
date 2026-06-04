@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/231FA04G02/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/231FA04G02/leetcode_dsa/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/231FA04G02/leetcode_dsa/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/231FA04G02/leetcode_dsa/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/231FA04G02/leetcode_dsa/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/231FA04G02/leetcode_dsa/tree/master/0796-rotate-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/231FA04G02/leetcode_dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/231FA04G02/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/231FA04G02/leetcode_dsa/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/231FA04G02/leetcode_dsa/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/231FA04G02/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/231FA04G02/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/231FA04G02/leetcode_dsa/tree/master/0645-set-mismatch) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/231FA04G02/leetcode_dsa/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/231FA04G02/leetcode_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/231FA04G02/leetcode_dsa/tree/master/0455-assign-cookies) |
 ## Database
