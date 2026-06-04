@@ -395,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/231FA04G02/leetcode_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/231FA04G02/leetcode_dsa/tree/master/0455-assign-cookies) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/231FA04G02/leetcode_dsa/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
