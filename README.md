@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/231FA04G02/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/231FA04G02/leetcode_dsa/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/231FA04G02/leetcode_dsa/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/231FA04G02/leetcode_dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/231FA04G02/leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/231FA04G02/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/231FA04G02/leetcode_dsa/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/231FA04G02/leetcode_dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/231FA04G02/leetcode_dsa/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/231FA04G02/leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/231FA04G02/leetcode_dsa/tree/master/0231-power-of-two) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/231FA04G02/leetcode_dsa/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0113-path-sum-ii) |
 ## Tree
 |  |
