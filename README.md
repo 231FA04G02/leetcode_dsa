@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/231FA04G02/leetcode_dsa/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/231FA04G02/leetcode_dsa/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/231FA04G02/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/231FA04G02/leetcode_dsa/tree/master/0056-merge-intervals) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/231FA04G02/leetcode_dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/231FA04G02/leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/231FA04G02/leetcode_dsa/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/231FA04G02/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/231FA04G02/leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/231FA04G02/leetcode_dsa/tree/master/0169-majority-element) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/231FA04G02/leetcode_dsa/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/231FA04G02/leetcode_dsa/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/231FA04G02/leetcode_dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0090-subsets-ii) |
@@ -420,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/231FA04G02/leetcode_dsa/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/231FA04G02/leetcode_dsa/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/231FA04G02/leetcode_dsa/tree/master/0177-nth-highest-salary) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/231FA04G02/leetcode_dsa/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
