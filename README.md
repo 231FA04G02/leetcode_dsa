@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/231FA04G02/leetcode_dsa/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/231FA04G02/leetcode_dsa/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/231FA04G02/leetcode_dsa/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/231FA04G02/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/231FA04G02/leetcode_dsa/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/231FA04G02/leetcode_dsa/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/231FA04G02/leetcode_dsa/tree/master/0078-subsets) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/231FA04G02/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/231FA04G02/leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/231FA04G02/leetcode_dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/231FA04G02/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/231FA04G02/leetcode_dsa/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/231FA04G02/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/231FA04G02/leetcode_dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/231FA04G02/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
