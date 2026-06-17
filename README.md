@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/231FA04G02/leetcode_dsa/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/231FA04G02/leetcode_dsa/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/231FA04G02/leetcode_dsa/tree/master/1189-maximum-number-of-balloons) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/231FA04G02/leetcode_dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/231FA04G02/leetcode_dsa/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/231FA04G02/leetcode_dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Trie
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/231FA04G02/leetcode_dsa/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/231FA04G02/leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/231FA04G02/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/231FA04G02/leetcode_dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/231FA04G02/leetcode_dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Queue
 |  |
