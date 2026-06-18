@@ -1,6 +1,5 @@
 class Solution(object):
     def levelOrder(self, root):
-
         def solve(root):
             if root==None:
                 return []
@@ -8,13 +7,16 @@ class Solution(object):
             res=[]
             while(hp):
                 level=[]
-                for i in range(len(hp)):
-                    node = hp.popleft()
-                    level.append(node.val)
-                    if node.left:
-                        hp.append(node.left)
-                    if node.right:
-                        hp.append(node.right)
+                for i in range (len(hp)):
+                    Node=hp.popleft()
+                    level.append(Node.val)
+
+                    if Node.left:
+                        hp.append(Node.left)
+                    if Node.right:
+                        hp.append(Node.right)
+
                 res.append(level)
             return res
-        return solve(root)
+        return solve(root) 
+            
