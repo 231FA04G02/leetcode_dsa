@@ -5,10 +5,8 @@ class Solution:
         def preorder(root):
             if root==None:
                 return 
-            else:
-                ls.append(root.val)
-                preorder(root.left)
-                preorder(root.right)
+            ls.append(root.val)
+            preorder(root.left)
+            preorder(root.right)
         preorder(root)
         return ls
-        
