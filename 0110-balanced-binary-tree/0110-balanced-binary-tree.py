@@ -1,19 +1,20 @@
 class Solution:
-    def __init__(self):
-        self.ans=True
-    def height(self,root):
-        if root is None:
-            return 0
-        leftheight=self.height(root.left)
-        rightheight=self.height(root.right)
-
-        if abs(leftheight - rightheight)>1:
-            self.ans= False
-        return max(leftheight,rightheight)+1
-    
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        self.height(root)
-        return self.ans
-        
-        
+
+        def solve(root):
+            if root is None:
+                return 0
+
+            left = solve(root.left)
+            right = solve(root.right)
+
+            if left == -1 or right == -1:
+                return -1
+
+            if abs(left - right) > 1:
+                return -1
+
+            return max(left, right) + 1
+
+        return solve(root) != -1
         
